@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using UnityEngine;
 
-namespace Improx.TLC.Localization
+namespace Improx.Pluggables
 {
     [CreateAssetMenu(fileName = "ArrayPluggable", menuName = "Localization/ArrayPluggable", order = 0)]
     public class ArrayPluggable : TextPluggableBase

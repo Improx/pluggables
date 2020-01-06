@@ -4,7 +4,7 @@ using Assets.SimpleLocalization;
 using NaughtyAttributes;
 using UnityEngine;
 
-namespace Improx.TLC.Localization
+namespace Improx.Pluggables
 {
     [CreateAssetMenu(fileName = "LocalizationObject", menuName = "Localization/LocalizationObject", order = 0)]
     public class LocalizationObject : ScriptableObject

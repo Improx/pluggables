@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Improx.TLC.Localization
+namespace Improx.Pluggables
 {
     [CreateAssetMenu(fileName = "ControllerTypePluggable", menuName = "Localization/ControllerTypePluggable", order = 0)]
     public class ControllerTypePluggable : TextPluggableBase

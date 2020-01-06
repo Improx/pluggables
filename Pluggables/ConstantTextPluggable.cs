@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Improx.TLC.Localization
+namespace Improx.Pluggables
 {
     [CreateAssetMenu(fileName = "ConstantTextPluggable", menuName = "Localization/ConstantTextPluggable", order = 0)]
     public class ConstantTextPluggable : TextPluggableBase

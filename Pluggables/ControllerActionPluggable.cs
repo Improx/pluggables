@@ -2,7 +2,7 @@ using System;
 using Rewired;
 using UnityEngine;
 
-namespace Improx.TLC.Localization
+namespace Improx.Pluggables
 {
     [CreateAssetMenu(fileName = "ControllerTypePluggable", menuName = "Localization/ControllerActionPluggable", order = 0)]
     public class ControllerActionPluggable : TextPluggableBase

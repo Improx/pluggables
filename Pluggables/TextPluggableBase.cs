@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Improx.TLC.Localization
+namespace Improx.Pluggables
 {
     public abstract class TextPluggableBase : ScriptableObject
     {
