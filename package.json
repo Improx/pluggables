@@ -1,0 +1,7 @@
+{
+  "name": "com.improxgames.pluggables",
+  "displayName": "PluggableSystem",
+  "description": "Event-based pluggable system for dynamic strings",
+  "version": "1.0.0",
+  "unity": "2017.1",
+}
