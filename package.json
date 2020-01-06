@@ -1,5 +1,5 @@
 {
-  "name": "com.improxgames.pluggables",
+  "name": "com.improx.pluggables",
   "displayName": "PluggableSystem",
   "description": "Event-based pluggable system for dynamic strings",
   "version": "1.0.0",
